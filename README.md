@@ -4,9 +4,6 @@
     <a href="https://github.com/deboranrosa/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=deboranrosa&theme=material-palenight" />
   </a>
-  <a href="https://github.com/deboranrosa/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deboranrosa&theme=material-palenight&layout=compact&langs_count=8&card_width=320" />
-  </a>
 </div>
   
 <div style="display: inline_block"><br>
