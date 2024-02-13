@@ -1,4 +1,4 @@
-## Oi Oi Gente! Eu sou a Débora, desenvolvedora full stack JavaScript!
+## Oi oi gente! Eu sou a Débora, desenvolvedora full stack JavaScript!
 
 <div>
     <a href="https://github.com/deboranrosa/github-readme-stats">
